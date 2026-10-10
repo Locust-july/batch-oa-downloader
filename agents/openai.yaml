@@ -1,0 +1,4 @@
+interface:
+  display_name: "Batch OA Downloader"
+  short_description: "Check citations and bundle lawful open PDFs"
+  default_prompt: "Use $batch-oa-downloader to check this BibTeX or RIS file, download lawful open PDFs, and package the results."
